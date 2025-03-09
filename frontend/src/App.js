@@ -44,7 +44,7 @@ const App = () => {
 
   return (
     <div className='app'>
-      <h1 className='app-text'>タスク一覧a</h1>
+      <h1 className='app-text'>タスク一覧</h1>
       <div className='app-container'>
         <input
           className='app-form'
